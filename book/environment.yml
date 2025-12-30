@@ -1,4 +1,4 @@
-name: book
+name: itslive-book
 channels:
 - conda-forge
 - nodefaults
